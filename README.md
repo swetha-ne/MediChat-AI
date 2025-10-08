@@ -20,7 +20,7 @@ It integrates with **Pinecone** for vector search, **Flask** for the backend API
 
 | Layer | Technology |
 |-------|-------------|
-| Backend | Python, Flask |
+| Backend | Flask |
 | AI/LLM | LangChain, Google Generative AI (Gemini) |
 | Vector Database | Pinecone |
 | Deployment | AWS (ECR, EC2) |
